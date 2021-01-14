@@ -81,4 +81,7 @@
 
 [linkedin]: https://www.linkedin.com/in/marcos-salto/
 [gmail]: mailto:marcosasalto@gmail.com
-[github]: https://github.com/marcossalto
+[medium]: https://medium.com/@marcosasalto
+[twitter]: https://twitter.com/marcosasalto
+[skype]: https://join.skype.com/invite/marcosasalto
+[stackoverflow]: https://es.stackoverflow.com/users/209106/marcos-salto

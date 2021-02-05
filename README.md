@@ -4,7 +4,7 @@
 
 ![](./img/banner.jpg)
 
-- 👨🏾‍💻 I’m currently working in [XRP](https://www.xrp.net)!
+- 👨🏾‍💻 I’m currently working in [Rootstrap](https://www.rootstrap.com)!
 - 🤖 I’m currently learning Machine Learning
 - 🎯 2021 Goals: Contribute open source projects
 

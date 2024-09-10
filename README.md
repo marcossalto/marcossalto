@@ -4,9 +4,8 @@
 
 ![](./img/banner.jpg)
 
-- 👨🏾‍💻 I’m currently working in [Rootstrap](https://www.rootstrap.com)!
-- 🤖 I’m currently learning Machine Learning
-- 🎯 2021 Goals: Contribute open source projects
+- 🤖 I'm currently learning Artificial Intelligence and Machine Learning
+- 🎯 2024 Goals: Contribute open source projects
 
 
 ## Summary
@@ -19,7 +18,8 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin-Multiplatform-%237f52ff?logo=kotlin)</br>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue)</br>
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 

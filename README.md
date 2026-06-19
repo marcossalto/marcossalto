@@ -1,11 +1,11 @@
 # <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hi there, I'm Marcos. 
 
-### I'm an Android Developer and student forever, I like to constantly learn!
+### KMP Architect • Lifelong learner • Passionate about mobile technologies and software architecture
 
 ![](./img/banner.jpg)
 
 - 🤖 I'm currently learning Artificial Intelligence and Machine Learning
-- 🎯 2024 Goals: Contribute open source projects
+- 🎯 2026 Goals: Contribute open source projects
 
 
 ## Summary
